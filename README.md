@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi, I'm Albert 👋
 
-<!--
-**albertaleksa/albertaleksa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Engineer with extensive experience in SQL development and a strong background in the banking sector. I'm passionate about leveraging data analysis and innovative data-driven solutions to create an impact in the industry.
 
-Here are some ideas to get you started:
+## My Expertise 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL Development
+- Python
+- Data Warehousing
+- ETL/ELT
+- Workflow Orchestration
+- Analytics Engineering
+- Google Cloud Platform (GCP)
+
+## Projects 📚
+
+- **CrimeTrendsExplorer: A Multi-City Crime Analysis Projectt:** Developed a robust data pipeline to analyze crime data in Austin, Los Angeles, and San Diego.
+
+## Get in touch 🌐
+
+- [LinkedIn](https://www.linkedin.com/in/albert-aleksa/)
+- [Email](mailto:albert.aleksa.by@gmail.com)
+
+## Fun facts 😄
+
+- I'm a music enthusiast, and I used to play bass guitar and kachon.
+- I enjoy traveling and exploring new places.
+- One of my hobbies is Motion Design.
