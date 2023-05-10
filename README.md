@@ -23,6 +23,6 @@ I'm a Data Engineer with extensive experience in SQL development and a strong ba
 
 ## Fun facts 😄
 
-- I'm a music enthusiast, and I used to play bass guitar and kachon.
+- I'm a music enthusiast, and I used to play bass guitar and cajon.
 - I enjoy traveling and exploring new places.
 - One of my hobbies is Motion Design.
