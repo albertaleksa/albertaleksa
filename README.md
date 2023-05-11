@@ -12,9 +12,11 @@ I'm a Data Engineer with extensive experience in SQL development and a strong ba
 - Analytics Engineering
 - Google Cloud Platform (GCP)
 
-## Projects 📚
+## 📚 Featured Project: CrimeTrendsExplorer
 
-- **CrimeTrendsExplorer: A Multi-City Crime Analysis Projectt:** Developed a robust data pipeline to analyze crime data in Austin, Los Angeles, and San Diego.
+The CrimeTrendsExplorer is a comprehensive data engineering project aimed at processing, analyzing, and exploring crime records data for three major cities in the United States: Austin, Los Angeles, and San Diego. The project covers several years of data, providing valuable insights and trends that can help law enforcement agencies, city planners, researchers, and the general public make informed decisions.
+
+🔗 **GitHub Repository**: [CrimeTrendsExplorer](https://github.com/albertaleksa/crime-reports-data)
 
 ## Get in touch 🌐
 
